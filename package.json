@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "personal portfolio website",
   "source": "src/index.html",
-  "homepage": "https://sky-720.github.io/Suraj_Kumar_Yadav-Portfolio",
+  "homepage": "https://sky-720.github.io/Suraj_Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sky-720.github.io/Suraj_Kumar_Yadav-Portfolio'",
+    "build-gh": "parcel build --public-url 'https://sky-720.github.io/Suraj_Portfolio",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
