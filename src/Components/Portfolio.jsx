@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/bg1.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A person is holding a phone, capturing a moment related to communication or technology.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-Commerce Application (Dart, Flutter, Firebase) 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a cross-platform E-Commerce application using Dart and Flutter, enabling users to browse products, manage their cart, and complete purchases seamlessly. Leveraged Firebase for real-time database management, user authentication, and cloud storage, ensuring a secure and responsive user experience.",
+      url:"https://github.com/sky-720"
   },
   {
-    title: "Web Development for Beginners",
+    title: "Netflix Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A fully functional Netflix clone built using React.js, this project replicates the core features of the popular streaming service. Users can browse a wide selection of movies and TV shows, view detailed descriptions, and watch trailers. The app utilizes a responsive design to ensure a seamless experience across devices.",
+    url: "https://github.com/sky-720",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a responsive personal resume website utilizing HTML, CSS, and JavaScript. The site features a clean, modern design with smooth scrolling, interactive sections, and a downloadable resume option. Implemented responsive layouts to ensure compatibility across various devices and screen sizes. ",
+    url: "https://github.com/sky-720",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Personal Portfolio Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a responsive personal portfolio using HTML, CSS, and JavaScript. The site features a clean layout, interactive navigation, and smooth scrolling animations, showcasing my projects and skills in an engaging manner.",
+    url: "https://github.com/sky-720",
   },
 ];
 
